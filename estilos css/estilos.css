@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+#nombre:hover {
+    text-transform: uppercase;
+    color: #DF9DFF;
+  }
+
+header {
+  background-color: #EDC2FF;
+  padding: 2%;
+}
+
+#contenido {
+  background-color:#DFF1AB;
+  padding: 2%;
+  text-align: justify;
+}
